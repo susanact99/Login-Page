@@ -37,10 +37,5 @@ Make sure you have the following software installed:
    npm install
 ## Running the Development Server
 To start the development server, run:
-    ```bash
+   ```bash
    npm run dev
-## Technologies Used
-React: JavaScript library for building user interfaces.
-TailwindCSS: Utility-first CSS framework for styling.
-Vite: Next-generation frontend tooling.
-GitHub Pages: Hosting service for deploying static websites directly from a GitHub repository.
