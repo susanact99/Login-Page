@@ -11,9 +11,6 @@ This is a responsive login page built with React, TailwindCSS, and Vite. The pag
 - **Forgot Password**: A link to reset the password is available.
 - **Deployable on GitHub Pages**: The project can be deployed easily using GitHub Pages.
 
-## Screenshots
-
-![Screenshot of the Login Page](./assets/Cover-img.jpeg)
 
 ## Getting Started
 
